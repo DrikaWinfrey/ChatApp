@@ -1,6 +1,9 @@
 # ChatApp
 A fullstack chating app using React and Firebase.
 
+## Rules and Policies
+Cursing and obscene words would ban a user indefinitely. 
+
 ## Features
 - Sign in using Google AuthO
 - Stores chat history
