@@ -15,6 +15,7 @@ A fullstack chating app using React and Firebase.
 2. cd/to/file
 3. Type: npm start.
 
+## Example of Chat App Interface 
 
 <img width="731" alt="Screen Shot 2021-02-17 at 9 09 32 PM" src="https://user-images.githubusercontent.com/71201553/109604887-e4d40180-7ae9-11eb-86bb-e54f5b49a0f6.png">
 
